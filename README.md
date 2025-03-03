@@ -1,5 +1,11 @@
 # 🛒 Recommender System for E-commerce Products
 
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![Libraries](https://img.shields.io/badge/Libraries-Pandas%2C%20Surprise%2C%20scikit--learn-lightgrey.svg)
+
 This project implements a **collaborative filtering-based recommender system** for an e-commerce platform using the **Amazon Electronics dataset**.  
 The goal is to recommend products to users based on their past interactions and the behaviors of similar users and products.
 

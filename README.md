@@ -118,7 +118,7 @@ In this project, we build a **product recommendation system** by applying:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Recommender_System_Ecommerce.git
+   git clone https://github.com/saadabdullah-15/Recommender_System_Ecommerce.git
    cd Recommender_System_Ecommerce
    ```
 
@@ -129,7 +129,7 @@ In this project, we build a **product recommendation system** by applying:
 
 3. Open the notebooks in **Jupyter Notebook** or **Google Colab**:
    - `Notebooks/Recommender_System_Ecommerce.ipynb`
-   - `Notebooks/recommender_system_ecommerce_SVD.ipynb`
+   - `Notebooks/recommender_system_ecommerce.py`
 
 4. Follow the notebook cells to run EDA, build models, and generate recommendations.
 
